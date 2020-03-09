@@ -1,0 +1,60 @@
+button,
+.button {
+	margin-bottom: 0 !important;
+	margin-right: .5rem;
+}
+.table_height
+{
+	height: 400px;
+	overflow-y: auto;
+	display:block;
+	background-color: gainsboro;
+	border-radius: 5px;
+}
+th, td {
+	padding: .3rem !important;
+}
+.app_background
+{
+	background-color: darkgrey;
+	border-radius: 5px;
+}
+.title
+{
+	top:20px;
+	position: relative;
+}
+.error
+{
+	color:red;
+	
+}
+
+.modal {
+	position: relative;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 2%;
+
+}
+.back
+{
+	background-color: tomato;
+}
+.modal-content
+{
+	width: 1012px;
+    height: 534px;
+    top: 7%;
+    position: fixed;
+    left: 1%;
+
+}
+.modal-header button
+{
+	float: right;
+	margin-top: -50px;
+}
